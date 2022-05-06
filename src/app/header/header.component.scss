@@ -2,8 +2,14 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: rgba(0, 0, 255, 0.759);
-    background-color: rgb(25, 13, 13);
+    color: rgba(45, 45, 211, 0.759);
+    background-color:rgb(35, 141, 141);
     padding-bottom: 2rem;
     margin: 0;
+    
+}
+.tituloPrincipal{
+    position:fixed;
+    width: 100%;
+
 }

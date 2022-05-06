@@ -1,9 +1,16 @@
-.content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;    
-    background-color: brown;
-    margin-left: 4px;
-    height: 100%;
-    padding-bottom: 100%;
+.contenidoPrincipal {
+   position: fixed;
+   margin-left: 200px;  
+   
+}
+.efecto1{
+  background-image: url('https://www.clarisavau.com/img//banner.png');
+  
+}
+.efecto2{
+   background-image: url('../../assets/img/Captura\ de\ pantalla\ 2022-05-05\ 210452.jpg');
+  
+}
+.efecto3 {
+   background-image: url('../../assets/img/Captura\ de\ pantalla\ 2022-05-05\ 212239.jpg');
 }
